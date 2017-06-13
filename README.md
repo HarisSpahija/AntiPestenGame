@@ -2,6 +2,6 @@
 
 Animations (gifs) are in 250 ms!
 
-Test
+Gif animations are fixed
 
-testing 1 more thing
+Start button gives gameStart(); function uppon button press
