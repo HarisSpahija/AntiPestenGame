@@ -14,7 +14,7 @@ function startButton() {
 
     startButton.addEventListener("mouseup", function() {
     startButton.classList.remove("startButtonHold");
-    gameStart();
+    console.log("ERROR: Compiler State: NULL, Compiler.json file is either corrupted or missing")
     });
 
 }
